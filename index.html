@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Cuestionario de interes general</h1>
+        <h2>tienes 10 segundos para contestar</h2>
+        <div class="prueba">
+            <h3 id="pregunta"></h3>           
+            <div id="boton-respuesta">
+                <button class="btn">Respuesta 1</button>
+                <button class="btn">Respuesta 2</button>
+                <button class="btn">Respuesta 3</button>
+                <button class="btn">Respuesta 4</button>
+            </div>
+            <button id="next-btn">Siguiente pregunta</button>
+            <button id="btn-lista">Ver lista de jugadores y puntajes</button>
+        </div>
+        <div>
+            <table class="table" id="lista-usuarios">
+                <thead>
+                    <tr>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Puntos</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./main.js"></script>
+</body>
+</html>

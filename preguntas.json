@@ -1,0 +1,212 @@
+[
+    {
+        "pregunta": "¿Cual es la capital de Francia?",
+        "respuestas": [
+            {
+                "text": "Londres",
+                "correct": false
+            },
+            {
+                "text": "Paris",
+                "correct": true
+            },
+            {
+                "text": "Roma",
+                "correct": false
+            },
+            {
+                "text": "Berlin",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quien pinto la Mona Lisa?",
+        "respuestas": [
+            {
+                "text": "Rembrant",
+                "correct": false
+            },
+            {
+                "text": "Leonardo Da Vinci",
+                "correct": true
+            },
+            {
+                "text": "Miguel Angel",
+                "correct": false
+            },
+            {
+                "text": "Monet",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quien es el autor del Martin Fierro?",
+        "respuestas": [
+            {
+                "text": "Jose Hernandez",
+                "correct": true
+            },
+            {
+                "text": "Ernesto Sabato",
+                "correct": false
+            },
+            {
+                "text": "Jorge Luis Borges",
+                "correct": false
+            },
+            {
+                "text": "Juan Jose Jimenez",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cual de las siguientes frutas es un citrico?",
+        "respuestas": [
+            {
+                "text": "Uva",
+                "correct": false
+            },
+            {
+                "text": "Banana",
+                "correct": false
+            },
+            {
+                "text": "Manzana",
+                "correct": false
+            },
+            {
+                "text": "Pomelo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Ali Baba y los 40....?",
+        "respuestas": [
+            {
+                "text": "valientes",
+                "correct": false
+            },
+            {
+                "text": "ladrones",
+                "correct": true
+            },
+            {
+                "text": "guereros",
+                "correct": false
+            },
+            {
+                "text": "piratas",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Planeta mas lejano del Sol?",
+        "respuestas": [
+            {
+                "text": "Urano",
+                "correct": false
+            },
+            {
+                "text": "Neptuno",
+                "correct": true
+            },
+            {
+                "text": "Pluton",
+                "correct": false
+            },
+            {
+                "text": "Saturno",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Que isla no es de la Polinesia?",
+        "respuestas": [
+            {
+                "text": "Guinea",
+                "correct": false
+            },
+            {
+                "text": "Samoa",
+                "correct": false
+            },
+            {
+                "text": "Java",
+                "correct": false
+            },
+            {
+                "text": "Creta",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cual es la capital de Colombia?",
+        "respuestas": [
+            {
+                "text": "Bogota",
+                "correct": true
+            },
+            {
+                "text": "Lima",
+                "correct": false
+            },
+            {
+                "text": "Quito",
+                "correct": false
+            },
+            {
+                "text": "La Paz",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Que rio es de America?",
+        "respuestas": [
+            {
+                "text": "Nilo",
+                "correct": false
+            },
+            {
+                "text": "Volga",
+                "correct": false
+            },
+            {
+                "text": "Rin",
+                "correct": false
+            },
+            {
+                "text": "Amazonas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Que cordillera es de Europa?",
+        "respuestas": [
+            {
+                "text": "Himalaya",
+                "correct": false
+            },
+            {
+                "text": "Alpes",
+                "correct": true
+            },
+            {
+                "text": "Andes",
+                "correct": false
+            },
+            {
+                "text": "Caucaso",
+                "correct": false
+            }
+        ]
+    }
+]
